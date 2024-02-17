@@ -1,0 +1,1 @@
+const session = {user: gabbe, id: 1, data: xxx}
